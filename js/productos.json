@@ -1,0 +1,20 @@
+[
+    {"nombre": "Forza Horizon 5", "precio": 1000, "categoria": "carrera", "id": 1},
+    {"nombre": "Need for Speed Heat", "precio": 1000, "categoria": "carrera", "id": 2},
+    {"nombre": "Hot Wheels Unleash", "precio": 1000, "categoria": "carrera", "id": 3},
+    {"nombre": "Assetto Corsa Competizione", "precio": 1000, "categoria": "carrera", "id": 4},
+    {"nombre": "Ride 4", "precio": 1000, "categoria": "carrera", "id": 5},
+    {"nombre": "Elder Ring", "precio": 1000, "categoria": "rol", "id": 6},
+    {"nombre": "God of War", "precio": 1000, "categoria": "rol", "id": 7},
+    {"nombre": "Persona 5 Royal", "precio": 1000, "categoria": "rol", "id": 8},
+    {"nombre": "Assassins Creed Valhalla", "precio": 1000, "categoria": "rol", "id": 9},
+    {"nombre": "Dying Light", "precio": 1000, "categoria": "rol", "id": 10},
+    {"nombre": "Monster Hunter Rise", "precio": 1000, "categoria": "rol", "id": 11},
+    {"nombre": "Crusader Kings III", "precio": 1000, "categoria": "rol", "id": 12},
+    {"nombre": "Lost Ark", "precio": 1000, "categoria": "rol", "id": 13},
+    {"nombre": "Naraka", "precio": 1000, "categoria": "lucha", "id": 14},
+    {"nombre": "Guilty Gear Strive", "precio": 1000, "categoria": "lucha", "id": 15},
+    {"nombre": "Dragon Ball Z Kakarot", "precio": 1000, "categoria": "lucha", "id": 16},
+    {"nombre": "Street Fighter V", "precio": 1000, "categoria": "lucha", "id": 17},
+    {"nombre": "Tekken 7", "precio": 1000, "categoria": "lucha", "id": 18}
+]
